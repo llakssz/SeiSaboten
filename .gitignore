@@ -1,3 +1,10 @@
+# Custom stuff
+*.sav
+*.sgm
+*.gba
+*.bak
+.idea/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
