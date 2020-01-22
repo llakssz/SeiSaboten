@@ -19,10 +19,17 @@ Lots of reverse engineering of the game was needed to accomplish this, and witho
 To handle the Japanese text, each of the 1247 kanji in the game had to be documented individually...! I didn't trust OCR with something like this, due to the low pixel density. Some kanji were hard to deduce (they were viewed all together, not in context) - so they were skipped. View the 'kanji_table.xlsx' file in the 'kanji' folder in the repo to see which kanji are missing. Screenshots of each kanji are included in case anyone wants to fill in the missing ones before I get around to it myself! Again, check the 'kanji' folder.
 
 Sample:
+
 ![Text Editing](https://jtm.gg/files/dudbear-message3x.png)
+
 SeiSaboten GUI:
+
 ![Editor GUI](https://jtm.gg/files/SeiSaboten0.6.png)
+
 Edit of Rabite:
+
 ![Monster Editing](https://jtm.gg/files/rabite_edit3x.png)
+
 Replacing Rabites with Chocobos:
+
 ![Encounter Editing](https://jtm.gg/files/chocobo3x.png)
